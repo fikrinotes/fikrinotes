@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fikrinotes
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python and Java
-- 💻 I’m looking to collaborate on Data Science Projects & Web Development
+- 💻 I’m looking for a collaboration on Data Science Projects & Web Development
 - 📫 How to reach me : @fikrimulyana_s (instagram)
 
 
