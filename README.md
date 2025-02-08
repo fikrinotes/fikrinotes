@@ -32,8 +32,8 @@ I'm a math student with a passion for Data Science. I love to code, and I'm cons
 
 ## 🔗 Links
 
-- [My Personal Website]([https://yourportfolio.com](https://fikrinotes.netlify.app/))
-- [LinkedIn]([https://linkedin.com/in/yourlinkedinhandle](https://www.linkedin.com/in/fikri-mulyana-setiawan/))
+- [My Personal Website](https://fikrinotes.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/fikri-mulyana-setiawan/)
 - [Twitter](https://x.com/fikrimulyana_s)
 
 [![An image of @fikrinotes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fikrinotes)](https://holopin.io/@fikrinotes)
