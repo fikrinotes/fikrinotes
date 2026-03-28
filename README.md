@@ -7,7 +7,7 @@
 
 I'm a math student with a passion for Data Science. I love to code, and I'm constantly learning new things to improve my skills.
 
-- 🔭 I’m currently working on [Temen.in](https://www.instagram.com/temeninplatform) as Fullstack Web Developer
+- 🔭 I’m currently working on DataAnnotation as AI Trainer
 - 🌱 I’m currently studying about Deep Neural Networks
 - 👯 I’m looking to collaborate on Data Science Project
 - 💬 Ask me about web development, data analysis, data science, mathematical analysis, etc
