@@ -35,7 +35,11 @@ I'm a math student with a passion for Data Science. I love to code, and I'm cons
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=fikrinotes&show_icons=true&theme=tokyonight&title_color=FF4F00&text_color=00FFFF&icon_color=FF4F00&bg_color=0D1117&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fikrinotes&show_icons=true&theme=tokyonight&title_color=FF4F00&text_color=00FFFF&icon_color=FF4F00&bg_color=0D1117&hide_border=true" />
+  
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fikrinotes&theme=tokyo-night&color=FF4F00&line=00FFFF&point=FF4F00&area=true&hide_border=true" />
+</p>
 
 <!---
 fikrinotes/fikrinotes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
