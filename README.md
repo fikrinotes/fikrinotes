@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fikri!
 
-<div align="center>
+<div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fikrinotes)
 [![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/fikrimulyana)
