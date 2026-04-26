@@ -26,9 +26,11 @@ I'm a math student with a passion for Data Science. I love to code, and I'm cons
 
 ## 🛠 Skills
 
-- **Languages**: Python, Javascript, Ruby, Pascal, Java, C, C++, and PHP
-- **Frameworks**: React, Django, Bootstrap, Materialize CSS, NodeJS
-- **Tools**: Jupyter Notebook, Visual Studio Code, Eclipse
+- **Languages**: Python, Javascript, Ruby, Pascal, Java, C++, and PHP
+- **AI/ML**: Scikit Learn, TensorFlow, PyTorch, Risk Analysis, Anomaly Detection, Time-Series Analysis, Explainable AI 
+- **Frontend Dev**: Next.js, React, Bootstrap, Materialize CSS, Bulma
+- **Backend Dev**: FastAPI, Django, Node.js, Postman
+- **Tools**: Google Cloud Platform (BigQuery, Vertex AI), Linux Environment (WSL), 
 - **Other**: Mathematical Reasoning, Analysis and Geometry, Design
 
 ## 📈 GitHub Stats
